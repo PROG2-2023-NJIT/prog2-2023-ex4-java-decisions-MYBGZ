@@ -72,6 +72,7 @@ public class Main
         "Total passengers: " + totalPassengers + "\n" +
         "Total ticket price in Euros: " + TotalTicketPrice);
         
+        
         input.close();
         input1.close();
         input2.close();
