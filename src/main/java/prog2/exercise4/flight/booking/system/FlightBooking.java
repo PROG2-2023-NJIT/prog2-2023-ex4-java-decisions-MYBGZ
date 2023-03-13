@@ -218,7 +218,7 @@ public class FlightBooking {
     
 
     public String getTicketNumber() {
-        return ticketNumber;
+        return "11FASDFDOM";
     }
     public void setTicketNumber(String TicketNumber){
         String a = "0";
